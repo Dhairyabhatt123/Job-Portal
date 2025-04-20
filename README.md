@@ -1,4 +1,4 @@
-# 🧑‍💼 Job Portal - Full Stack MERN Application
+# 🧑‍💼 Job Portal - A Backend Project
 
 A modern, full-featured job portal built with the MERN stack (MongoDB, Express.js, React.js, and Node.js). The app allows users to register, login, post jobs (for recruiters), and apply to jobs (for candidates).
 
